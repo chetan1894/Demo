@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[guidanz1 is pass]]>
+    </line>
+    <line>
+      <![CDATA[guidanz2 is pass]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2026-04-16T23:51:27 IST" name="Suite" finished-at="2026-04-16T23:52:08 IST" duration-ms="41595">
+    <groups>
+    </groups>
+    <test started-at="2026-04-16T23:51:27 IST" name="Test" finished-at="2026-04-16T23:52:08 IST" duration-ms="41595">
+      <class name="tests.test1">
+        <test-method signature="guidanz1()[pri:0, instance:tests.test1@3bd40a57]" started-at="2026-04-16T23:51:27 IST" name="guidanz1" finished-at="2026-04-16T23:51:47 IST" duration-ms="20808" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[guidanz1 is pass]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- guidanz1 -->
+        <test-method signature="guidanz2()[pri:0, instance:tests.test1@3bd40a57]" started-at="2026-04-16T23:51:47 IST" name="guidanz2" finished-at="2026-04-16T23:52:08 IST" duration-ms="20687" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[guidanz2 is pass]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- guidanz2 -->
+      </class> <!-- tests.test1 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
